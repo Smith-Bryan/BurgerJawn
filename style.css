@@ -47,13 +47,13 @@ body{
 }
 
 .logo {
-    text-align: left; /* Center align text within the hero div */
+    text-align: left;
     font-size: x-large;
-    padding: 10; /* Adjust padding as needed */
+    padding: 10;
 }
 
 .logo img {
-    max-width: 30%; /* Make sure images don't exceed the container width */
+    max-width: 30%; 
 }
 
 .logo :hover{
